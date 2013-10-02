@@ -1,0 +1,3 @@
+name: ChunkAnchor
+main: io.github.Gherkin.ChunkAnchor.ChunkAnchor.java
+version: 0.1
