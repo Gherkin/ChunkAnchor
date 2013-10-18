@@ -1,3 +1,7 @@
 name: ChunkAnchor
-main: io.github.Gherkin.ChunkAnchor.ChunkAnchor.java
-version: 0.1
+main: io.github.Gherkin.ChunkAnchor.ChunkAnchor
+version: 0.7
+commands:
+  chunkanchor:
+    description: anchors specified chunks
+    usage: /chunkanchor (here/location)
